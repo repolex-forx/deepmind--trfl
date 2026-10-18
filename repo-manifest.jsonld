@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/deepmind/trfl/commit/ed6eff5b79ed56923bcb102e152c01ea52451d4c",
       "git:hexsha": "ed6eff5b79ed56923bcb102e152c01ea52451d4c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T00:54:09.058717+00:00"
     }
   ]
 }
